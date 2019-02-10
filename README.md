@@ -1,6 +1,6 @@
 # Play Blastar!
 
-[](https://ojaswy.github.io/Blastar/)
+(https://ojaswy.github.io/Blastar/)
 
 ## About Blastar
 
