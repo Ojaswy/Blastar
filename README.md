@@ -1,7 +1,7 @@
 # Play Blastar!
 
 You can play Blastar [here](https://ojaswy.github.io/Blastar/).
-
+ 
 ## About Blastar
 
 Blastar was a game written by Elon Musk in 1984 (at the age of 12).
